@@ -1,5 +1,11 @@
 # FreeVideo — Colab free-tier smoke test
 
+**Status: not run yet.** This notebook answers one question: can FreeVideo
+(MiniMax H3) generate a 5 s clip on a free Colab T4? No run has been done
+yet, so there are no results here — only the test itself. Part of the
+[free-video-orchestrator](https://github.com/airdropverificados-ship-it/free-video-orchestrator)
+project ($0-budget AI video generation).
+
 **Notebook:** `freevideo-colab-test.ipynb` (25 cells, nbformat-validated).
 **Builder:** `build_notebook.py` — re-run it to regenerate the notebook after edits.
 
